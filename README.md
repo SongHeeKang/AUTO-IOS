@@ -36,6 +36,7 @@ pip install -r requirements.txt
 sh view-allure-report.sh
 ```
 
+```
 # 파일구조
 ├── apps : apk,ipa 파일위치
 ├── base : appium Element 관련 파일들
